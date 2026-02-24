@@ -31,11 +31,6 @@ A full-stack music streaming web application with a clean UI and core music play
 
 ---
 
-## 📊 GitHub Activity
-I focus on clean code, meaningful commits, and consistent learning.
-
----
-
 ## 📫 Connect With Me
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/vaibhav-chavan-10320b351?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 **Email:** vaibhavdchavan609@gmail.com
